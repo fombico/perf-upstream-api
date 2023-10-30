@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.9.18-slim
 
 COPY start.sh /scripts/start.sh
 COPY app/ /app/
