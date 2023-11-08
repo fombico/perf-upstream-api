@@ -16,7 +16,7 @@ docker run -d -p 8082:8000 --rm --name perf-upstream-api perf-upstream-api
 
 Stop:
 ```sh
-docker stop perf-upstream-api 
+docker stop perf-upstream-api
 ```
 
 Push:
